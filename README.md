@@ -2,9 +2,9 @@
 
 ### SKILLS
 ● Programming Languages: SQL (proficient), Python (intermediate), R (intermediate) <br/>
-● Data Visualization: Power BI (proficient), Excel (proficient), Tableau (intermediate)
-● Frontend technologies: HTML/CSS (intermediate), JavaScript (intermediate) 
-● Soft Skills: Communication, Collaboration, Creativity
+● Data Visualization: Power BI (proficient), Excel (proficient), Tableau (intermediate) <br/>
+● Frontend technologies: HTML/CSS (intermediate), JavaScript (intermediate) <br/>
+● Soft Skills: Communication, Collaboration, Creativity 
 
 ### PROFESSIONAL EXPERIENCE
 Silver Touch Tech. Ltd. (New Delhi)							May 2023 - Present
