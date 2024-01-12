@@ -1,7 +1,8 @@
 # Data Scientist
 
 ### SKILLS
-● Programming Languages: SQL (proficient), Python (intermediate), R (intermediate)  ● Data Visualization: Power BI (proficient), Excel (proficient), Tableau (intermediate)
+● Programming Languages: SQL (proficient), Python (intermediate), R (intermediate) <br/>
+● Data Visualization: Power BI (proficient), Excel (proficient), Tableau (intermediate)
 ● Frontend technologies: HTML/CSS (intermediate), JavaScript (intermediate) 
 ● Soft Skills: Communication, Collaboration, Creativity
 
