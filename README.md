@@ -7,8 +7,8 @@
 ● Soft Skills: Communication, Collaboration, Creativity 
 
 ### PROFESSIONAL EXPERIENCE
-Silver Touch Tech. Ltd. (New Delhi)							May 2023 - Present
-Project Engineer
+Silver Touch Tech. Ltd. (New Delhi)							May 2023 - Present <br/>
+Project Engineer <br/>
 •	Analyzing and interpreting complex data sets to provide insights to exploits e-Office implementation.
 •	Familiar with Database systems such as Excel and My SQL.
 •	Developing and maintaining robust e-office systems, including designing and implementing data models and data sanitization to manage Employee Master Data Management. 
