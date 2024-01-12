@@ -37,7 +37,7 @@ Employee Master Data Dashboard is visual representation of data insights | Integ
 Covid-19 Global Analysis Dashboard is a visualized platform represents real-time or periodically updated information about the Covid-19 pandemic | Typically includes key metrics such as the number of Confirmed cases, Recoveries, Death globally, Graphs, Charts and Maps are commonly used to illustrate trends | The goal is to provide user-friendly interface for individuals and Healthcare professionals. 
 
 ### EDUCATION
-•	MCA: Master of Computer Application – 7 CGPA					2021 <br/>
+•	MCA: Master of Computer Application – 7 CGPA			&nbsp;		2021 <br/>
 Galgotias College of Engineering & Technology, Greater Noida <br/>
 •	BCA: Bachelor of Computer Application – 6 SGPA					2018 <br/>
 BFIT College of Engineering & Technology, Dehradun <br/>
