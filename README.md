@@ -13,8 +13,8 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ## PROFESSIONAL EXPERIENCE
 **Silver Touch Tech. Ltd.** (New Delhi) <br/> 
-May 2023 - Present <br/>
-Project Engineer <br/>
+**May 2023 - Present** <br/>
+**Project Engineer** <br/>
 •	Analyzing and interpreting complex data sets to provide insights to exploits e-Office implementation.<br/>
 •	Familiar with Database systems such as Excel and My SQL.<br/>
 •	Developing and maintaining robust e-office systems, including designing and implementing data models and data sanitization to manage Employee Master Data Management. <br/>
