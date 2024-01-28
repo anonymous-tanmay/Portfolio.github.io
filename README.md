@@ -21,16 +21,10 @@ Project Engineer <br/>
 •	Collaborating with cross-functional teams to understand organisation requirements, identify data sources, and develop e-file solutions that support electronic office. <br/>
 •	Power BI create CMPFO Pan India Employee Dashboard. <br/>
 
-IT Wings Info System Pvt. Ltd. (New Delhi) <br/>					
-July 2021 - Oct 2022 <br/>
-Project Engineer <br/>
-•	Collect and Analyzing Data to provide insights to exploits e-Office implementation. <br/>
-•	Familiar with Database systems such as Excel and My SQL. <br/>
-•	Developing and maintaining robust e-office systems, including designing and implementing data models to manage Employee Master Data Management. <br/>
 
 ## Projects
 
-<img align="left" width="250" height="150" src="EMD_Dashboard_Image.jpg"> **[CMPFO Employee Master Data Dashboard:](https://github.com/anonymous-tanmay/Employee_Master_Data_Dashboard.git)**
+<img align="left" width="250" height="150" src="https://github.com/anonymous-tanmay/Employee_Master_Data_Dashboard/blob/master/EMD_Dashboard_Image.jpg"> **[CMPFO Employee Master Data Dashboard:](https://github.com/anonymous-tanmay/Employee_Master_Data_Dashboard.git)**
 
 Employee Master Data Dashboard is visual representation of data insights | Integrate data from various sources | Utilizing interactive reports | Enables users to analyze and explore employee data.
 
