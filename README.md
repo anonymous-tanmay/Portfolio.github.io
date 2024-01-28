@@ -30,7 +30,7 @@ Project Engineer <br/>
 
 ## Projects
 
-<img align="left" width="250" height="150" src="[EMD_Dashboard_Image.jpg](https://github.com/anonymous-tanmay/Employee_Master_Data_Dashboard/blob/9470d894e8e2dbe63d419a78f9611fa253073edb/EMD_Dashboard_Image.jpg"> **[CMPFO Employee Master Data Dashboard](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
+<img align="left" width="250" height="150" src="EMD_Dashboard_Image.jpg"> **[CMPFO Employee Master Data Dashboard](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
 
 Employee Master Data Dashboard is visual representation of data insights | Integrate data from various sources | Utilizing interactive reports | Enables users to analyze and explore employee data.
 
