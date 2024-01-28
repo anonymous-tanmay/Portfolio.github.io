@@ -36,12 +36,10 @@ Employee Master Data Dashboard is visual representation of data insights | Integ
 
 #
 
-<img align="left" width="250" height="150" src="EMD_Dashboard_Image.jpg"> **[Covid-19 Global Analysis Dashboard:](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
+<img align="left" width="250" height="150" src="Covid_Dashboard_Project.jpg"> **[Covid-19 Global Analysis Dashboard:](https://github.com/anonymous-tanmay/Covid_Dashboard.git)**
 
-Employee Master Data Dashboard is visual representation of data insights | Integrate data from various sources | Utilizing interactive reports | Enables users to analyze and explore employee data.
-
-•	Covid-19 Global Analysis Dashboard: <br/>
 Covid-19 Global Analysis Dashboard is a visualized platform represents real-time or periodically updated information about the Covid-19 pandemic | Typically includes key metrics such as the number of Confirmed cases, Recoveries, Death globally, Graphs, Charts and Maps are commonly used to illustrate trends | The goal is to provide user-friendly interface for individuals and Healthcare professionals. 
+
 
 ### CERTIFICATION
 •	Data Science Bootcamp (Udemy) : Working on it <br/>
