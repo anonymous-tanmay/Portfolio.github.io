@@ -5,13 +5,13 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 - **Email**: [tanmay.thakur632@gmail.com](tanmay.thakur632@gmail.com)
 - **LinkedIn**: [Tanmay Raj](https://www.linkedin.com/in/tanmay-raj-633755167/)
 
-### SKILLS
+## SKILLS
 ● Programming Languages: SQL (proficient), Python (intermediate), R (intermediate) <br/>
 ● Data Visualization: Power BI (proficient), Excel (proficient), Tableau (intermediate) <br/>
 ● Frontend technologies: HTML/CSS (intermediate), JavaScript (intermediate) <br/>
 ● Soft Skills: Communication, Collaboration, Creativity 
 
-### PROFESSIONAL EXPERIENCE
+## PROFESSIONAL EXPERIENCE
 Silver Touch Tech. Ltd. (New Delhi) <br/> 
 May 2023 - Present <br/>
 Project Engineer <br/>
@@ -32,8 +32,21 @@ Employee Master Data Dashboard is visual representation of data insights | Integ
 
 <img align="left" width="250" height="150" src="https://github.com/anonymous-tanmay/Covid_Dashboard/blob/master/Covid_Dashboard_Project.jpg"> **[Covid-19 Global Analysis Dashboard:](https://github.com/anonymous-tanmay/Covid_Dashboard.git)**
 
-Covid-19 Global Analysis Dashboard is a visualized platform represents real-time or periodically updated information about the Covid-19 pandemic | Typically includes key metrics such as the number of Confirmed cases, Recoveries, Death globally, Graphs, Charts and Maps are commonly used to illustrate trends | The goal is to provide user-friendly interface for individuals and Healthcare professionals. 
+In the midst of these challenging times, the need for informed decision-making has never been more crucial. This dashboard serves as a beacon, providing a comprehensive overview of the worldwide impact of COVID-19. 🚀
 
+At its core, this project is a testament to the power of data in shaping our understanding of the pandemic's complexities. The dashboard offers a real-time snapshot of infection rates, recovery trends, and critical healthcare statistics, empowering individuals and organizations to make informed choices. It's not just data; it's a tool for strategic decision-making in the face of a global health crisis. 💡
+
+#
+
+<img align="left" width="250" height="150" src="https://github.com/anonymous-tanmay/Covid-19_Vaccination_Dashboard/blob/master/Covid_Vaccination_State-Wise.jpg"> **[COVID-19 Vaccination Analysis Dashboard:](https://github.com/anonymous-tanmay/Covid-19_Vaccination_Dashboard.git)**
+
+The State-Wise COVID-19 Vaccination Dashboard. This innovative platform provides detailed insights into vaccination progress across different states.
+1. State-Specific Data: Detailed vaccination statistics for each state, enabling localized tracking and analysis.
+2. Interactive Visualization: User-friendly maps and charts illustrating vaccination rates and trends at the state level.
+3. Real-Time Updates: The dashboard is regularly updated to reflect the latest vaccination figures and trends.
+4. Demographic Breakdown: Insights into vaccination rates among different age groups, health conditions, and other demographic factors within states.
+5. Resource Hub: Provides state-specific vaccination guidelines, locations, and FAQs to assist the public.
+   
 <br />
 
 ### CERTIFICATION
