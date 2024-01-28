@@ -43,11 +43,10 @@ At its core, this project is a testament to the power of data in shaping our und
 
 <img align="left" width="250" height="250" src="https://github.com/anonymous-tanmay/Covid-19_Vaccination_Dashboard/blob/master/Covid_Vaccination_State-Wise.jpg"> **[COVID-19 Vaccination Analysis Dashboard:](https://github.com/anonymous-tanmay/Covid-19_Vaccination_Dashboard.git)**
 
-The State-Wise COVID-19 Vaccination Dashboard. This innovative platform provides detailed insights into vaccination progress across different states.
-1. State-Specific Data: Detailed vaccination statistics for each state, enabling localized tracking and analysis.
-2. Real-Time Updates: The dashboard is regularly updated to reflect the latest vaccination figures and trends.
-3. Demographic Breakdown: Insights into vaccination rates among different age groups, health conditions, and other demographic factors within states.
-4. Resource Hub: Provides state-specific vaccination guidelines, locations, and FAQs to assist the public.
+The State-Wise COVID-19 Vaccination Dashboard. This innovative platform provides detailed insights into vaccination progress across different states. State-Specific data delivers detailed vaccination statistics for each state, enabling localized tracking and analysis.
+1. Real-Time Updates: The dashboard is regularly updated to reflect the latest vaccination figures and trends.
+2. Demographic Breakdown: Insights into vaccination rates among different age groups, health conditions, and other demographic factors within states.
+3. Resource Hub: Provides state-specific vaccination guidelines, locations, and FAQs to assist the public.
    
 <br />
 
