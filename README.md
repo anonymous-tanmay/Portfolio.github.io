@@ -12,7 +12,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 ● Soft Skills: Communication, Collaboration, Creativity 
 
 ## PROFESSIONAL EXPERIENCE
-Silver Touch Tech. Ltd. (New Delhi) <br/> 
+**Silver Touch Tech. Ltd.** (New Delhi) <br/> 
 May 2023 - Present <br/>
 Project Engineer <br/>
 •	Analyzing and interpreting complex data sets to provide insights to exploits e-Office implementation.<br/>
@@ -24,13 +24,13 @@ Project Engineer <br/>
 
 ## Projects
 
-<img align="left" width="250" height="150" src="https://github.com/anonymous-tanmay/Employee_Master_Data_Dashboard/blob/master/EMD_Dashboard_Image.jpg"> **[CMPFO Employee Master Data Dashboard:](https://github.com/anonymous-tanmay/Employee_Master_Data_Dashboard.git)**
+<img align="left" width="250" height="250" src="https://github.com/anonymous-tanmay/Employee_Master_Data_Dashboard/blob/master/EMD_Dashboard_Image.jpg"> **[CMPFO Employee Master Data Dashboard:](https://github.com/anonymous-tanmay/Employee_Master_Data_Dashboard.git)**
 
 Employee Master Data Dashboard is visual representation of data insights | Integrate data from various sources | Utilizing interactive reports | Enables users to analyze and explore employee data.
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/anonymous-tanmay/Covid_Dashboard/blob/master/Covid_Dashboard_Project.jpg"> **[Covid-19 Global Analysis Dashboard:](https://github.com/anonymous-tanmay/Covid_Dashboard.git)**
+<img align="left" width="250" height="250" src="https://github.com/anonymous-tanmay/Covid_Dashboard/blob/master/Covid_Dashboard_Project.jpg"> **[Covid-19 Global Analysis Dashboard:](https://github.com/anonymous-tanmay/Covid_Dashboard.git)**
 
 In the midst of these challenging times, the need for informed decision-making has never been more crucial. This dashboard serves as a beacon, providing a comprehensive overview of the worldwide impact of COVID-19. 🚀
 
@@ -38,7 +38,7 @@ At its core, this project is a testament to the power of data in shaping our und
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/anonymous-tanmay/Covid-19_Vaccination_Dashboard/blob/master/Covid_Vaccination_State-Wise.jpg"> **[COVID-19 Vaccination Analysis Dashboard:](https://github.com/anonymous-tanmay/Covid-19_Vaccination_Dashboard.git)**
+<img align="left" width="250" height="250" src="https://github.com/anonymous-tanmay/Covid-19_Vaccination_Dashboard/blob/master/Covid_Vaccination_State-Wise.jpg"> **[COVID-19 Vaccination Analysis Dashboard:](https://github.com/anonymous-tanmay/Covid-19_Vaccination_Dashboard.git)**
 
 The State-Wise COVID-19 Vaccination Dashboard. This innovative platform provides detailed insights into vaccination progress across different states.
 1. State-Specific Data: Detailed vaccination statistics for each state, enabling localized tracking and analysis.
