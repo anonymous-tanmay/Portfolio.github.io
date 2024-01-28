@@ -46,7 +46,7 @@ At its core, this project is a testament to the power of data in shaping our und
 The State-Wise COVID-19 Vaccination Dashboard. This innovative platform provides detailed insights into vaccination progress across different states. State-Specific data delivers detailed vaccination statistics for each state, enabling localized tracking and analysis.
 1. Real-Time Updates: The dashboard is regularly updated to reflect the latest vaccination figures and trends.
 2. Demographic Breakdown: Insights into vaccination rates among different age groups, health conditions, and other demographic factors within states.
-3. Resource Hub: Provides state-specific vaccination guidelines, locations, and FAQs to assist the public.
+3. Resource: Provides state-specific vaccination guidelines, locations, and FAQs to assist the public.
    
 <br />
 
