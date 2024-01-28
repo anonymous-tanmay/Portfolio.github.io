@@ -2,8 +2,8 @@
 
 This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
 
-- **Email**: [tanmay.thakur632@gmail.com](tanmay.thakur632@gmail.com)
-- **LinkedIn**: [Tanmay Raj](https://www.linkedin.com/in/tanmay-raj-633755167/)
+**Email**: [tanmay.thakur632@gmail.com](tanmay.thakur632@gmail.com)
+**LinkedIn**: [Tanmay Raj](https://www.linkedin.com/in/tanmay-raj-633755167/)
 
 ## SKILLS
 ● Programming Languages: SQL (proficient), Python (intermediate), R (intermediate) <br/>
@@ -50,14 +50,14 @@ The State-Wise COVID-19 Vaccination Dashboard. This innovative platform provides
    
 <br />
 
-### CERTIFICATION
+## CERTIFICATION
 •	Data Science Bootcamp (Udemy) : Working on it <br/>
 •	Competitor Analysis (Semrush): Data Analysis | Advance Excel | ETL | Data Visualization | Business Requirement | Microsoft Power BI <br/>
 •	Data Science with Python (Simplilearn): Data Wrangling | Mathematical Computing | Web Scrapping | Hypothesis Building | Data Exploration | Python Concepts <br/>
 •	Mastering using MS Excel (Alison): Data Analysis | Formulas | Pivot Tables <br/>
 •	Python Foundation (LinkedIn): Python Libraries | Python Programming Concepts
 
-### EDUCATION
+## EDUCATION
 •	MCA: Master of Computer Application – 7 CGPA 2020 <br/>
 Galgotias College of Engineering & Technology, Greater Noida <br/>
 •	BCA: Bachelor of Computer Application – 6 SGPA					2018 <br/>
