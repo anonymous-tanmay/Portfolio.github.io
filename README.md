@@ -6,10 +6,10 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 **LinkedIn**: [Tanmay Raj](https://www.linkedin.com/in/tanmay-raj-633755167/)
 
 ## SKILLS
-● Programming Languages: SQL (proficient), Python (intermediate), R (intermediate) <br/>
-● Data Visualization: Power BI (proficient), Excel (proficient), Tableau (intermediate) <br/>
-● Frontend technologies: HTML/CSS (intermediate), JavaScript (intermediate) <br/>
-● Soft Skills: Communication, Collaboration, Creativity 
+● **Programming Languages**: SQL (proficient), Python (intermediate), R (intermediate) <br/>
+● **Data Visualization**: Power BI (proficient), Excel (proficient), Tableau (intermediate) <br/>
+● **Frontend technologies**: HTML/CSS (intermediate), JavaScript (intermediate) <br/>
+● **Soft Skills**: Communication, Collaboration, Creativity 
 
 ## PROFESSIONAL EXPERIENCE
 **Silver Touch Tech. Ltd.** (New Delhi) <br/> 
