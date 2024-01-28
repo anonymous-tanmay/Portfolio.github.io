@@ -34,7 +34,7 @@ Project Engineer <br/>
 
 Employee Master Data Dashboard is visual representation of data insights | Integrate data from various sources | Utilizing interactive reports | Enables users to analyze and explore employee data.
 
-#
+<br />
 
 <img align="left" width="250" height="150" src="Covid_Dashboard_Project.jpg"> **[Covid-19 Global Analysis Dashboard:](https://github.com/anonymous-tanmay/Covid_Dashboard.git)**
 
