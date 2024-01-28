@@ -26,7 +26,7 @@ Project Engineer <br/>
 
 <img align="left" width="250" height="250" src="https://github.com/anonymous-tanmay/Employee_Master_Data_Dashboard/blob/master/EMD_Dashboard_Image.jpg"> **[CMPFO Employee Master Data Dashboard:](https://github.com/anonymous-tanmay/Employee_Master_Data_Dashboard.git)**
 
-An Employee Master Data Dashboard is a centralized platform or tool that provides a comprehensive and organized overview of key information about an organization's workforce. This dashboard serves as a valuable resource for HR professionals, managers, and other stakeholders to efficiently manage and analyze employee data.
+An Employee Master Data Dashboard is a centralized platform or tool that provides a comprehensive and organized overview of key information about an organization's workforce. This dashboard serves as a valuable resource for HR professionals, managers, and stakeholders to efficiently manage and analyze employee data.
 1. Employee Overview: Display of total number of employees, breakdown by departments, sections, or locations.
 2. Personal Information: Individual employee profiles with details like name, employee ID, position, and contact information.
 3. Employment Status: Information on the employment status of each employee (e.g., active, on leave, terminated).
@@ -45,10 +45,9 @@ At its core, this project is a testament to the power of data in shaping our und
 
 The State-Wise COVID-19 Vaccination Dashboard. This innovative platform provides detailed insights into vaccination progress across different states.
 1. State-Specific Data: Detailed vaccination statistics for each state, enabling localized tracking and analysis.
-2. Interactive Visualization: User-friendly maps and charts illustrating vaccination rates and trends at the state level.
-3. Real-Time Updates: The dashboard is regularly updated to reflect the latest vaccination figures and trends.
-4. Demographic Breakdown: Insights into vaccination rates among different age groups, health conditions, and other demographic factors within states.
-5. Resource Hub: Provides state-specific vaccination guidelines, locations, and FAQs to assist the public.
+2. Real-Time Updates: The dashboard is regularly updated to reflect the latest vaccination figures and trends.
+3. Demographic Breakdown: Insights into vaccination rates among different age groups, health conditions, and other demographic factors within states.
+4. Resource Hub: Provides state-specific vaccination guidelines, locations, and FAQs to assist the public.
    
 <br />
 
