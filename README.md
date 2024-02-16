@@ -52,7 +52,7 @@ The State-Wise COVID-19 Vaccination Dashboard. This innovative platform provides
 <br />
 
 ## CERTIFICATION
-•	Data Science Bootcamp (Udemy) : Working on it <br/>
+•	Complete Data Science Bootcamp: Statistics | Python | Data Visualization | ML | DL | Tableau <br/>
 •	Competitor Analysis (Semrush): Data Analysis | Advance Excel | ETL | Data Visualization | Business Requirement | Microsoft Power BI <br/>
 •	Data Science with Python (Simplilearn): Data Wrangling | Mathematical Computing | Web Scrapping | Hypothesis Building | Data Exploration | Python Concepts <br/>
 •	Mastering using MS Excel (Alison): Data Analysis | Formulas | Pivot Tables <br/>
