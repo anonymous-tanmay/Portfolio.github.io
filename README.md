@@ -51,8 +51,16 @@ The State-Wise COVID-19 Vaccination Dashboard. This innovative platform provides
    
 <br />
 
+## Certificates
+
+- [Complete Data Science Bootcamp (Udemy): Statistics | Python | Data Visualization | ML | DL | Tableau](https://github.com/archd3sai/Portfolio/blob/master/Certificates/CertificateOfCompletion_Tableau%20Essential%20Training%202020.1.pdf)
+- [Machine Learning Explainability By Kaggle](https://github.com/archd3sai/Data-Science-Portfolio-Arch-Desai/blob/master/Certificates/Arch%20Desai%20-%20Machine%20Learning%20Explainability.png)
+- [Apache PySpark Training By Linkedin](https://github.com/archd3sai/Data-Science-Portfolio-Arch-Desai/blob/master/Certificates/CertificateOfCompletion_Apache%20Pyspark%20By%20Example%20(2).pdf)
+- [SQL Essential Training By Linkedin](https://github.com/archd3sai/Data-Science-Portfolio-Arch-Desai/blob/master/Certificates/CertificateOfCompletion_Sql%20Essential%20Training%202018%20(1).pdf)
+- [SQL Test By HackerRank](https://www.hackerrank.com/certificates/c0cda4c2f1b5)
+
 ## CERTIFICATION
-•	Complete Data Science Bootcamp: Statistics | Python | Data Visualization | ML | DL | Tableau <br/>
+•	Complete Data Science Bootcamp (Udemy): Statistics | Python | Data Visualization | ML | DL | Tableau <br/>
 •	Competitor Analysis (Semrush): Data Analysis | Advance Excel | ETL | Data Visualization | Business Requirement | Microsoft Power BI <br/>
 •	Data Science with Python (Simplilearn): Data Wrangling | Mathematical Computing | Web Scrapping | Hypothesis Building | Data Exploration | Python Concepts <br/>
 •	Mastering using MS Excel (Alison): Data Analysis | Formulas | Pivot Tables <br/>
