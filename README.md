@@ -53,7 +53,7 @@ The State-Wise COVID-19 Vaccination Dashboard. This innovative platform provides
 
 ## Certificates
 
-- [Microsoft Certified Power BI Associate]((https://github.com/anonymous-tanmay/Portfolio.github.io/blob/master/Certificates/UC-Microsoft%20Certified-%20Data%20Analyst%20Associate%20with%20Power%20BI.pdf))
+- [Microsoft Certified Power BI Associate](https://github.com/anonymous-tanmay/Portfolio.github.io/blob/master/Certificates/UC-Microsoft%20Certified-%20Data%20Analyst%20Associate%20with%20Power%20BI.pdf)
 - [Complete Data Science Bootcamp by Udemy](https://github.com/anonymous-tanmay/Portfolio.github.io/blob/3bd5c4850f7fc22872401f9ca42a37be0d2f1acf/Certificates/Udemy_The%20Complete%20Data%20Science.jpg)
 - [Competitor Analysis by Semrush](https://github.com/anonymous-tanmay/Portfolio.github.io/blob/3bd5c4850f7fc22872401f9ca42a37be0d2f1acf/Certificates/Semrush_Competitor%20Analysis.pdf)
 - [Data Science with Python by Simplilearn](https://github.com/anonymous-tanmay/Portfolio.github.io/blob/3bd5c4850f7fc22872401f9ca42a37be0d2f1acf/Certificates/Simplilearn_Data%20Sciencewith%20Python.png)
