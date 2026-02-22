@@ -1,195 +1,125 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Tanmay Raj | Data Scientist</title>
+<!-- Animated Header -->
+<h1 align="center">Hi 👋, I'm Tanmay Raj</h1>
+<h3 align="center">Data Analyst | Aspiring Data Scientist | Power BI Specialist</h3>
 
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
-
-<style>
-body{
-margin:0;
-font-family:'Inter',sans-serif;
-background:#0b0f19;
-color:#e6edf3;
-scroll-behavior:smooth;
-}
-
-header{
-height:100vh;
-display:flex;
-flex-direction:column;
-justify-content:center;
-align-items:center;
-text-align:center;
-background:linear-gradient(135deg,#0f2027,#203a43,#2c5364);
-}
-
-header h1{
-font-size:60px;
-margin:0;
-font-weight:700;
-}
-
-header p{
-font-size:20px;
-opacity:0.9;
-margin-top:10px;
-}
-
-.btn{
-margin-top:25px;
-padding:12px 28px;
-background:#00c6ff;
-color:#000;
-border-radius:30px;
-text-decoration:none;
-font-weight:600;
-transition:0.3s;
-}
-
-.btn:hover{
-background:#00a2cc;
-}
-
-.section{
-padding:80px 10%;
-}
-
-.section h2{
-font-size:32px;
-margin-bottom:40px;
-border-bottom:2px solid #00c6ff;
-display:inline-block;
-padding-bottom:10px;
-}
-
-.grid{
-display:grid;
-grid-template-columns:repeat(auto-fit,minmax(300px,1fr));
-gap:30px;
-}
-
-.card{
-background:#161b22;
-padding:25px;
-border-radius:15px;
-box-shadow:0 10px 30px rgba(0,0,0,0.5);
-transition:0.3s;
-}
-
-.card:hover{
-transform:translateY(-8px);
-}
-
-.card img{
-width:100%;
-border-radius:10px;
-margin-bottom:15px;
-}
-
-.skills span{
-display:inline-block;
-background:#00c6ff;
-color:#000;
-padding:8px 18px;
-margin:8px;
-border-radius:25px;
-font-size:14px;
-font-weight:600;
-}
-
-footer{
-text-align:center;
-padding:40px;
-background:#0a0d14;
-font-size:14px;
-opacity:0.7;
-}
-</style>
-</head>
-
-<body>
-
-<header>
-<h1>Tanmay Raj</h1>
-<p>Data Analyst → Aspiring Data Scientist</p>
-<p>SQL • Power BI • Python • Machine Learning</p>
-<a href="#projects" class="btn">View My Work</a>
-</header>
-
-<section class="section">
-<h2>About Me</h2>
-<p>
-Data professional with 4+ years of experience in Business Intelligence and dashboard development.
-Designed Pan-India reporting systems and managed structured employee master datasets.
-Currently building end-to-end Machine Learning solutions and deployment pipelines.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst;Power+BI+Developer;SQL+Specialist;Aspiring+Data+Scientist;Python+Learner&center=true&width=500&height=50">
 </p>
 
-<br>
+---
 
-<strong>Impact Highlights:</strong>
-<ul>
-<li>Built CMPFO Pan-India Employee Dashboard</li>
-<li>Automated reporting workflows using SQL</li>
-<li>Improved data visibility & reporting efficiency</li>
-</ul>
-</section>
+## 🚀 About Me
 
-<section class="section">
-<h2>Technical Expertise</h2>
-<div class="skills">
-<span>SQL</span>
-<span>Power BI</span>
-<span>Python</span>
-<span>Machine Learning</span>
-<span>Data Modeling</span>
-<span>Pandas</span>
-<span>MySQL</span>
-<span>Excel Automation</span>
-</div>
-</section>
+🎯 4+ years of experience in Data Analysis & e-Office Implementation  
+📊 Specialized in Power BI, SQL & Dashboard Development  
+🐍 Currently strengthening Python & Machine Learning skills  
+📈 Passionate about turning raw data into actionable insights  
 
-<section class="section" id="projects">
-<h2>Featured Projects</h2>
+📍 India  
+📧 tanmay.thakur632@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/tanmay-raj-633755167/)
 
-<div class="grid">
+---
 
-<div class="card">
-<h3>CMPFO Employee Dashboard</h3>
-<img src="https://github.com/anonymous-tanmay/Employee_Master_Data_Dashboard/blob/master/EMD_Dashboard_Image.jpg?raw=true">
-<p>Executive-level Power BI dashboard for HR analytics and workforce tracking.</p>
-<a href="https://github.com/anonymous-tanmay/Employee_Master_Data_Dashboard" class="btn">GitHub</a>
-</div>
+## 🛠 Tech Stack
 
-<div class="card">
-<h3>COVID-19 Global Analysis</h3>
-<img src="https://github.com/anonymous-tanmay/Covid_Dashboard/blob/master/Covid_Dashboard_Project.jpg?raw=true">
-<p>Interactive global data dashboard with time-series and mortality analysis.</p>
-<a href="https://github.com/anonymous-tanmay/Covid_Dashboard" class="btn">GitHub</a>
-</div>
+### 💻 Programming
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-<div class="card">
-<h3>Upcoming: ML Prediction Model</h3>
-<p>Regression & Classification models with full EDA, feature engineering and deployment using Streamlit.</p>
-<a href="#" class="btn">Coming Soon</a>
-</div>
+### 📊 Data Visualization
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-</div>
-</section>
+### 🗄 Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<section class="section">
-<h2>Career Objective</h2>
-<p>
-Seeking Data Analyst / Junior Data Scientist roles where I can apply advanced analytics,
-SQL expertise, and machine learning techniques to drive measurable business impact.
+### 🌐 Frontend
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+## 📂 Featured Projects
+
+### 📊 CMPFO Employee Master Data Dashboard
+🔗 [Repository](https://github.com/anonymous-tanmay/Employee_Master_Data_Dashboard)
+
+✔ Department-wise analysis  
+✔ Employment status tracking  
+✔ Employee profiling  
+✔ Centralized HR insights  
+
+---
+
+### 🌍 COVID-19 Global Analysis Dashboard
+🔗 [Repository](https://github.com/anonymous-tanmay/Covid_Dashboard)
+
+✔ Global case trends  
+✔ Recovery & mortality analysis  
+✔ Time-series visualization  
+✔ Comparative country insights  
+
+---
+
+### 💉 COVID-19 Vaccination Dashboard
+🔗 [Repository](https://github.com/anonymous-tanmay/Covid-19_Vaccination_Dashboard)
+
+✔ State-wise vaccination tracking  
+✔ Demographic insights  
+✔ Trend analysis  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anonymous-tanmay&show_icons=true&theme=tokyonight" />
 </p>
-</section>
 
-<footer>
-© 2026 Tanmay Raj | Data Scientist Portfolio
-</footer>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anonymous-tanmay&theme=tokyonight" />
+</p>
 
-</body>
-</html>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anonymous-tanmay&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Certifications
+
+🎓 Microsoft Certified: Power BI Data Analyst Associate  
+🎓 Data Science Bootcamp – Udemy  
+🎓 Data Science with Python – Simplilearn  
+🎓 Python Foundation – LinkedIn  
+🎓 MS Excel – Alison  
+
+---
+
+## 🎯 2026 Goals
+
+- 🚀 Transition into Data Scientist role  
+- 📚 Master Machine Learning & Model Deployment  
+- 🌐 Deploy ML apps using Streamlit  
+- 🏆 Contribute to open-source projects  
+
+---
+
+## ⚡ Let's Connect
+
+<p align="center">
+<a href="https://www.linkedin.com/in/tanmay-raj-633755167/">
+  <img src="https://img.shields.io/badge/LinkedIn-Tanmay%20Raj-blue?style=for-the-badge&logo=linkedin">
+</a>
+<a href="mailto:tanmay.thakur632@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail">
+</a>
+</p>
+
+---
+
+⭐ From [Tanmay Raj](https://github.com/anonymous-tanmay)
