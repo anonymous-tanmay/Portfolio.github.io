@@ -1,71 +1,30 @@
-# -----------------------------
-# Site Settings
-# -----------------------------
-
 title: "Tanmay Raj"
-name: "Tanmay Raj"
-description: "Data Analyst transitioning into Data Science | SQL • Power BI • Python • Machine Learning"
-url: "https://anonymous-tanmay.github.io"
+description: "Data Analyst | Aspiring Data Scientist | SQL • Power BI • Python"
+author: "Tanmay Raj"
+email: "tanmay.thakur632@gmail.com"
 baseurl: ""
+url: "https://anonymous-tanmay.github.io"
 
-locale: "en-IN"
-timezone: "Asia/Kolkata"
+theme: minima
 
-# -----------------------------
-# Theme
-# -----------------------------
+# Social Links
+linkedin_username: tanmay-raj-633755167
+github_username: anonymous-tanmay
 
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin: "dark"
+# SEO Settings
+lang: en_IN
+timezone: Asia/Kolkata
 
-# -----------------------------
-# Author Profile
-# -----------------------------
+# Markdown Settings
+markdown: kramdown
+highlighter: rouge
 
-author:
-  name   : "Tanmay Raj"
-  avatar : "/assets/images/profile.jpg"   # Add your photo here
-  bio    : "Data Analyst with 4+ years experience in BI & dashboard development. Currently building Machine Learning and predictive analytics expertise."
-  location: "India"
-  email  : "tanmay.thakur632@gmail.com"
-  links:
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/tanmay-raj-633755167/"
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/anonymous-tanmay"
-
-# -----------------------------
-# SEO & Plugins
-# -----------------------------
-
+# Plugins
 plugins:
-  - jekyll-include-cache
   - jekyll-seo-tag
   - jekyll-sitemap
 
-markdown: kramdown
-highlighter: rouge
-permalink: /:categories/:title/
-
-# -----------------------------
-# Collections (For Projects)
-# -----------------------------
-
+# Collections (for projects section)
 collections:
   projects:
     output: true
-    permalink: /:collection/:path/
-
-# -----------------------------
-# Defaults
-# -----------------------------
-
-defaults:
-  - scope:
-      path: ""
-      type: projects
-    values:
-      layout: single
-      author_profile: true
