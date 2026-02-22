@@ -1,67 +1,195 @@
-# Data Science Portfolio - Tanmay Raj
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tanmay Raj | Data Scientist</title>
 
-This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
 
-**Email**: [tanmay.thakur632@gmail.com](tanmay.thakur632@gmail.com)
-<br/>
-**LinkedIn**: [Tanmay Raj](https://www.linkedin.com/in/tanmay-raj-633755167/)
+<style>
+body{
+margin:0;
+font-family:'Inter',sans-serif;
+background:#0b0f19;
+color:#e6edf3;
+scroll-behavior:smooth;
+}
 
-## SKILLS
-● **Programming Languages**: SQL (proficient), Python (intermediate), R (intermediate) <br/>
-● **Data Visualization**: Power BI (proficient), Excel (proficient), Tableau (intermediate) <br/>
-● **Frontend technologies**: HTML/CSS (intermediate), JavaScript (intermediate) <br/>
-● **Soft Skills**: Communication, Collaboration, Creativity 
+header{
+height:100vh;
+display:flex;
+flex-direction:column;
+justify-content:center;
+align-items:center;
+text-align:center;
+background:linear-gradient(135deg,#0f2027,#203a43,#2c5364);
+}
 
-## PROFESSIONAL EXPERIENCE
-**Silver Touch Tech. Ltd.** (New Delhi) <br/> 
-**May 2023 - Present** <br/>
-**Project Engineer** <br/>
-•	Analyzing and interpreting complex data sets to provide insights to exploits e-Office implementation.<br/>
-•	Familiar with Database systems such as Excel and My SQL.<br/>
-•	Developing and maintaining robust e-office systems, including designing and implementing data models and data sanitization to manage Employee Master Data Management. <br/>
-•	Collaborating with cross-functional teams to understand organisation requirements, identify data sources, and develop e-file solutions that support electronic office. <br/>
-•	Power BI create CMPFO Pan India Employee Dashboard. <br/>
+header h1{
+font-size:60px;
+margin:0;
+font-weight:700;
+}
 
+header p{
+font-size:20px;
+opacity:0.9;
+margin-top:10px;
+}
 
-## Projects
+.btn{
+margin-top:25px;
+padding:12px 28px;
+background:#00c6ff;
+color:#000;
+border-radius:30px;
+text-decoration:none;
+font-weight:600;
+transition:0.3s;
+}
 
-<img align="left" width="250" height="300" src="https://github.com/anonymous-tanmay/Employee_Master_Data_Dashboard/blob/master/EMD_Dashboard_Image.jpg"> **[CMPFO Employee Master Data Dashboard:](https://github.com/anonymous-tanmay/Employee_Master_Data_Dashboard.git)**
+.btn:hover{
+background:#00a2cc;
+}
 
-An Employee Master Data Dashboard is a centralized platform or tool that provides a comprehensive and organized overview of key information about an organization's workforce. This dashboard serves as a valuable resource for HR professionals, managers, and stakeholders to efficiently manage and analyze employee data.
-1. Employee Overview: Display of total number of employees, breakdown by departments, sections, or locations.
-2. Personal Information: Individual employee profiles with details like name, employee ID, position, and contact information.
-3. Employment Status: Information on the employment status of each employee (e.g., active, on leave, terminated).
+.section{
+padding:80px 10%;
+}
 
-# <br />
+.section h2{
+font-size:32px;
+margin-bottom:40px;
+border-bottom:2px solid #00c6ff;
+display:inline-block;
+padding-bottom:10px;
+}
 
-<img align="left" width="250" height="250" src="https://github.com/anonymous-tanmay/Covid_Dashboard/blob/master/Covid_Dashboard_Project.jpg"> **[Covid-19 Global Analysis Dashboard:](https://github.com/anonymous-tanmay/Covid_Dashboard.git)**
+.grid{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(300px,1fr));
+gap:30px;
+}
 
-In the midst of these challenging times, the need for informed decision-making has never been more crucial. This dashboard serves as a beacon, providing a comprehensive overview of the worldwide impact of COVID-19. 🚀
+.card{
+background:#161b22;
+padding:25px;
+border-radius:15px;
+box-shadow:0 10px 30px rgba(0,0,0,0.5);
+transition:0.3s;
+}
 
-At its core, this project is a testament to the power of data in shaping our understanding of the pandemic's complexities. The dashboard offers a real-time snapshot of infection rates, recovery trends, and critical healthcare statistics, empowering individuals and organizations to make informed choices. It's not just data; it's a tool for strategic decision-making in the face of a global health crisis. 💡
+.card:hover{
+transform:translateY(-8px);
+}
 
-# <br />
+.card img{
+width:100%;
+border-radius:10px;
+margin-bottom:15px;
+}
 
-<img align="left" width="250" height="250" src="https://github.com/anonymous-tanmay/Covid-19_Vaccination_Dashboard/blob/master/Covid_Vaccination_State-Wise.jpg"> **[COVID-19 Vaccination Analysis Dashboard:](https://github.com/anonymous-tanmay/Covid-19_Vaccination_Dashboard.git)**
+.skills span{
+display:inline-block;
+background:#00c6ff;
+color:#000;
+padding:8px 18px;
+margin:8px;
+border-radius:25px;
+font-size:14px;
+font-weight:600;
+}
 
-The State-Wise COVID-19 Vaccination Dashboard. This innovative platform provides detailed insights into vaccination progress across different states. State-Specific data delivers detailed vaccination statistics for each state, enabling localized tracking and analysis.
-1. Real-Time Updates: The dashboard is regularly updated to reflect the latest vaccination figures and trends.
-2. Demographic Breakdown: Insights into vaccination rates among different age groups, health conditions, and other demographic factors within states.
-3. Hub: Provides state-specific vaccination guidelines, locations, and FAQs to assist the public.
-   
-<br />
+footer{
+text-align:center;
+padding:40px;
+background:#0a0d14;
+font-size:14px;
+opacity:0.7;
+}
+</style>
+</head>
 
-## Certificates
+<body>
 
-- [Microsoft Certified Power BI Associate](https://github.com/anonymous-tanmay/Portfolio.github.io/blob/master/Certificates/UC-Microsoft%20Certified-%20Data%20Analyst%20Associate%20with%20Power%20BI.pdf)
-- [Complete Data Science Bootcamp by Udemy](https://github.com/anonymous-tanmay/Portfolio.github.io/blob/3bd5c4850f7fc22872401f9ca42a37be0d2f1acf/Certificates/Udemy_The%20Complete%20Data%20Science.jpg)
-- [Competitor Analysis by Semrush](https://github.com/anonymous-tanmay/Portfolio.github.io/blob/3bd5c4850f7fc22872401f9ca42a37be0d2f1acf/Certificates/Semrush_Competitor%20Analysis.pdf)
-- [Data Science with Python by Simplilearn](https://github.com/anonymous-tanmay/Portfolio.github.io/blob/3bd5c4850f7fc22872401f9ca42a37be0d2f1acf/Certificates/Simplilearn_Data%20Sciencewith%20Python.png)
-- [Mastering using MS Excel by Alison](https://github.com/anonymous-tanmay/Portfolio.github.io/blob/3bd5c4850f7fc22872401f9ca42a37be0d2f1acf/Certificates/Alison%20Certification%20of%20Compeltion.jpg)
-- [Python Foundation by LinkedIn](https://github.com/anonymous-tanmay/Portfolio.github.io/blob/b18c7bba7b8a952f4c1e8160d83c179a2e5202c9/Certificates/Python%202020_LinkedIn.png)
+<header>
+<h1>Tanmay Raj</h1>
+<p>Data Analyst → Aspiring Data Scientist</p>
+<p>SQL • Power BI • Python • Machine Learning</p>
+<a href="#projects" class="btn">View My Work</a>
+</header>
 
-## EDUCATION
-•	MCA: Master of Computer Application – 7 CGPA 2020 <br/>
-Galgotias College of Engineering & Technology, Greater Noida <br/>
-•	BCA: Bachelor of Computer Application – 6 SGPA					2018 <br/>
-BFIT College of Engineering & Technology, Dehradun <br/>
+<section class="section">
+<h2>About Me</h2>
+<p>
+Data professional with 4+ years of experience in Business Intelligence and dashboard development.
+Designed Pan-India reporting systems and managed structured employee master datasets.
+Currently building end-to-end Machine Learning solutions and deployment pipelines.
+</p>
+
+<br>
+
+<strong>Impact Highlights:</strong>
+<ul>
+<li>Built CMPFO Pan-India Employee Dashboard</li>
+<li>Automated reporting workflows using SQL</li>
+<li>Improved data visibility & reporting efficiency</li>
+</ul>
+</section>
+
+<section class="section">
+<h2>Technical Expertise</h2>
+<div class="skills">
+<span>SQL</span>
+<span>Power BI</span>
+<span>Python</span>
+<span>Machine Learning</span>
+<span>Data Modeling</span>
+<span>Pandas</span>
+<span>MySQL</span>
+<span>Excel Automation</span>
+</div>
+</section>
+
+<section class="section" id="projects">
+<h2>Featured Projects</h2>
+
+<div class="grid">
+
+<div class="card">
+<h3>CMPFO Employee Dashboard</h3>
+<img src="https://github.com/anonymous-tanmay/Employee_Master_Data_Dashboard/blob/master/EMD_Dashboard_Image.jpg?raw=true">
+<p>Executive-level Power BI dashboard for HR analytics and workforce tracking.</p>
+<a href="https://github.com/anonymous-tanmay/Employee_Master_Data_Dashboard" class="btn">GitHub</a>
+</div>
+
+<div class="card">
+<h3>COVID-19 Global Analysis</h3>
+<img src="https://github.com/anonymous-tanmay/Covid_Dashboard/blob/master/Covid_Dashboard_Project.jpg?raw=true">
+<p>Interactive global data dashboard with time-series and mortality analysis.</p>
+<a href="https://github.com/anonymous-tanmay/Covid_Dashboard" class="btn">GitHub</a>
+</div>
+
+<div class="card">
+<h3>Upcoming: ML Prediction Model</h3>
+<p>Regression & Classification models with full EDA, feature engineering and deployment using Streamlit.</p>
+<a href="#" class="btn">Coming Soon</a>
+</div>
+
+</div>
+</section>
+
+<section class="section">
+<h2>Career Objective</h2>
+<p>
+Seeking Data Analyst / Junior Data Scientist roles where I can apply advanced analytics,
+SQL expertise, and machine learning techniques to drive measurable business impact.
+</p>
+</section>
+
+<footer>
+© 2026 Tanmay Raj | Data Scientist Portfolio
+</footer>
+
+</body>
+</html>
