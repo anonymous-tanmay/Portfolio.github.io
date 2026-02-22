@@ -1,30 +1,6 @@
-title: "Tanmay Raj"
-description: "Data Analyst | Aspiring Data Scientist | SQL • Power BI • Python"
-author: "Tanmay Raj"
-email: "tanmay.thakur632@gmail.com"
-baseurl: ""
-url: "https://anonymous-tanmay.github.io"
 
-theme: minima
-
-# Social Links
-linkedin_username: tanmay-raj-633755167
-github_username: anonymous-tanmay
-
-# SEO Settings
-lang: en_IN
-timezone: Asia/Kolkata
-
-# Markdown Settings
-markdown: kramdown
-highlighter: rouge
-
-# Plugins
-plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
-
-# Collections (for projects section)
-collections:
-  projects:
-    output: true
+title: Tanmay Raj
+logo: Github_Potfolio.jpg
+description: Data Science portfolio
+show_downloads: true
+theme: jekyll-theme-minimal
