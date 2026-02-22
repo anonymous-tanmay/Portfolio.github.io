@@ -109,45 +109,6 @@
 
 ---
 
-# 🐍 Animated Contribution Snake
-
-### ⚠️ After adding this README, create this GitHub Action:
-
-Create file:
-.github/workflows/snake.yml
-
-Paste:
-
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: anonymous-tanmay
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-Then add this to README bottom:
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/anonymous-tanmay/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 # 🏆 Certifications
 
@@ -171,3 +132,12 @@ Then add this to README bottom:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 </p>
+
+---
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anonymous-tanmay/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
