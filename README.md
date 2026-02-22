@@ -134,10 +134,3 @@
 </p>
 
 ---
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/anonymous-tanmay/output/github-contribution-grid-snake.svg" />
-</p>
-
----
