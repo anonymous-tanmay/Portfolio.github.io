@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Tanmay%20Raj&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<h2 align="center">Data Analyst | Aspiring Data Scientist | Power BI Specialist</h2>
+<h3 align="center">Freelance Data Analyst | Power BI Developer | Aspiring Data Scientist | MCA Graduate </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&width=600&lines=Turning+Data+into+Insights;Power+BI+Dashboard+Expert;SQL+%7C+Python+%7C+Analytics;Future+Machine+Learning+Engineer"/>
